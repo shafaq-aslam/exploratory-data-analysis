@@ -113,7 +113,6 @@ exploratory-data-analysis/
 
 - **Python 3.x**
 - **Pandas**
-- **NumPy**
 - **Seaborn**
 - **Matplotlib**
 - **Jupyter Notebook / Google Colab**
